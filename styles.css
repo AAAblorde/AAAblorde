@@ -5,14 +5,14 @@
 }
 
 body{
+    height: 1716px;
+    width: 1440px;
     background-color: #f2f2f2;
     font-family: 'Epilogue', sans-serif;
 }
 
 .main-container{
-height: 1716px;
-width: 1440px;
-background-color: #FAF8F6;
+background-color: #f6f6fa;
 position: relative;
 }
 
@@ -25,7 +25,6 @@ position: relative;
     left: 166px;
     top: 50px;
 }
-
 
 .logo{
     width: 78.41px;
@@ -48,7 +47,7 @@ position: relative;
 
 .rectangle{
     position: absolute;
-    width: 1440px;
+    width: 1439px;
     height: 464px;
     left: 0px;
     top: 1252px;
@@ -391,8 +390,6 @@ footer{
     background-image: linear-gradient(to bottom right, #A060FF, #CB30E3,#FFA84E);
 }
 
-.facebook:hover,
-.twiter:hover,
 .instagram:hover{
     filter: opacity(50%);
 }
@@ -403,6 +400,17 @@ footer{
         height: 56px;
         left: 39px;
     }
+
+    body{
+        height: 1962px;
+        width: 768px;
+        overflow-x: hidden;
+    }
+
+    .main-container{
+        background-color: #FAF8F6;
+        position: relative;
+        }
 
     .mid{
         width: 689px;
@@ -504,7 +512,7 @@ footer{
 
     .bottom-text{
         height: 48px;
-        width: 573px;
+        width: 400px;
         margin-left: 150px;
     }
 
@@ -526,7 +534,16 @@ footer{
         line-height: 32px;
         letter-spacing: 0.1px;
         text-align: center;
-        }
+    }
+
+    .rectangle{
+        width: 768px;
+        height: 640px;
+        left: 0px;
+        top: 1322px;
+        border-radius: 0px;
+        background: #F3EDE7;
+    }
 
     .subscription{
         align-items: center;
@@ -546,6 +563,17 @@ footer{
         height: 48px;
         left: 16px;
         top: 24;
+    }
+
+    body{
+        height: 2389px;
+        width: 375px;
+        overflow-x: hidden;
+    }
+
+    .main-container{
+        background-color: #FAF8F6;
+        position: relative;
     }
 
     .logo{
@@ -668,14 +696,14 @@ footer{
     }
 
     .bottom{
-        width: 573px;
+        width: 373px;
         height: 929px;
         left: 0px;
         top: 1355px;
     }
 
     .bottom-background{
-        width: 375px;
+        width: 373px;
         height: 748px;
         margin-top: 10px;
         background-color: #172339;
@@ -706,15 +734,16 @@ footer{
     }
 
     .comment{
-        width: 573px;
+        width: 373px;
         height: 282px;
-        left: 58px;
+        left: 0px;
         top: 350px;
+        text-align: center;
     }
 
     .bottom-text{
         height: 48px;
-        width: 573px;
+        width: 373px;
         margin-left: -15px;
     }
 
