@@ -394,6 +394,14 @@ footer{
     filter: opacity(50%);
 }
 
+.facebook:hover{
+    filter: opacity(50%);
+}
+
+.twiter:hover{
+    filter: opacity(50%);
+}
+
 @media screen and (max-width:768px) and (min-width:765px){
     .top{
         width: 689px;
