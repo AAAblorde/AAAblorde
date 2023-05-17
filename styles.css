@@ -402,6 +402,7 @@ footer{
     filter: opacity(50%);
 }
 
+
 @media screen and (max-width:768px) and (min-width:765px){
     .top{
         width: 689px;
@@ -571,12 +572,12 @@ footer{
         height: 48px;
         left: 16px;
         top: 24;
+        justify-content: space-between;
     }
 
     body{
         height: 2389px;
-        width: 375px;
-        overflow-x: hidden;
+        width: 373px;
     }
 
     .main-container{
@@ -602,7 +603,7 @@ footer{
 
     .mid{
         height: 323.2132568359375px;
-        width: 343.5px;
+        width: 343px;
         left: 15.5px;
         top: 100px;
         border-radius: 0px;
@@ -777,7 +778,7 @@ footer{
         letter-spacing: 0.1px;
         text-align: center;
         left: 65px;
-        }
+    }
 
     .subscription{
         position: relative;
