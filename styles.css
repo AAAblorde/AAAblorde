@@ -566,7 +566,7 @@ footer{
     }
 }
 
-@media screen and (max-width:375px) and (min-width:373px){
+@media screen and (max-width:375px){
     .top{
         width: 343px;
         height: 48px;
