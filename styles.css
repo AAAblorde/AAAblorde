@@ -434,7 +434,6 @@ footer{
         left: 447px;
     }
 
-
     .mid-text{
         height: 354px;
         width: 573px;
@@ -598,3 +597,85 @@ footer{
     }
 }
 
+@media screen (max-width:375) {
+    body{
+        width: 375px;
+        height: 2389px;
+    }
+
+    .main-container{
+        background: #FAF8F6;
+    }
+
+    .top{
+        width: 343px;
+        height: 48px;
+        left: 16px;
+        top: 24px;
+    }
+
+    .mid{
+        height: 323.5px;
+        width: 343.21px;
+        left: 15.5px;
+        top: 130.11px;
+    }
+
+    .image-desktop{
+        height: 240px;
+        width: 343px;
+        left: 16px;
+    }
+
+    .right{
+        height: 313px;
+        width: 344px;
+        left: 15px;
+        top: 805px;
+    }
+
+    .companies{
+        height: 83px;
+        width: 223px;
+        left: 39px;
+        top: 746px;
+    }
+
+    .companies-1{
+        height: 83px;
+        width: 223px;
+        left: 272px;
+        top: 746px;
+    }
+
+    .companies-2{
+        height: 83px;
+        width: 223px;
+        left: 505px;
+        top: 746px;
+    }
+
+    .views{
+        text-align: center;
+    }
+
+    .little{
+        text-align: center;
+    }
+
+    .views-1{
+        text-align: center;
+    }
+
+    .little-1{
+        text-align: center;
+    }
+
+    .views-2{
+        text-align: center;
+    }
+
+    .little-2{
+        text-align: center;
+    }
+}
