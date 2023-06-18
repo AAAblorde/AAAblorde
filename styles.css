@@ -636,46 +636,139 @@ footer{
 
     .companies{
         height: 83px;
-        width: 223px;
-        left: 39px;
-        top: 746px;
+        width: 33px;
+        left: 16px;
+        top: 805px;
     }
 
     .companies-1{
         height: 83px;
-        width: 223px;
-        left: 272px;
-        top: 746px;
+        width: 343px;
+        left: 16px;
+        top: 920px;
     }
 
     .companies-2{
         height: 83px;
-        width: 223px;
-        left: 505px;
-        top: 746px;
+        width: 343px;
+        left: 16px;
+        top: 1035px;
     }
 
     .views{
+        width: 343px;
+        height: 56px;
+        top: 805px;
+        left: 16px;
         text-align: center;
     }
 
     .little{
+        width: 343px;
+        height: 26px;
+        top: 862px;
+        left: 16px;
         text-align: center;
     }
 
     .views-1{
+        width: 343px;
+        height: 56px;
+        top: 920px;
+        left: 16px;
         text-align: center;
     }
 
     .little-1{
+        width: 343px;
+        height: 26px;
+        top: 977px;
+        left: 16px;
         text-align: center;
     }
 
     .views-2{
+        width: 343px;
+        height: 56px;
+        top: 1035px;
+        left: 16px;
         text-align: center;
     }
 
     .little-2{
+        width: 343px;
+        height: 26px;
+        top: 1092px;
+        left: 16px;
         text-align: center;
+    }
+
+    .bottom{
+        height: 929px;
+        width: 375px;
+        top: 1174px;
+    }
+
+    .bottom-background{
+        height: 748px;
+        width: 375px;
+        left: 99px;
+        top: 181px;
+        border-radius: 15px;
+    }
+
+    .human{
+        content: url('./assets/image-jeremy-small@2x.webp');
+        height: 402px;
+        width: 252px;
+        left: 170px;
+    }
+
+    .circle{
+        height: 100px;
+        width: 100px;
+        left: 130px;
+        top: 242px;
+    }
+
+    .curve-2{
+        height: 40px;
+        width: 49.27px;
+        left: 163px;
+        top: 1363px;
+    }
+
+    .bottom-text{
+        height: 48px;
+        width: 375px;
+    }
+
+    .bottom-para{
+        height: 160px;
+        width: 343px;
+        top: 607px;
+        left: 16px;
+    }
+
+    .rectangle{
+        height: 420px;
+        width: 377px;
+        top: 1969px;
+        background: #F3EDE7;
+    }
+
+    .subscription{
+        height: 58px;
+        width: 190px;
+        left: 93px;
+        top: 1981px;
+        align-items: center;
+    }
+
+    footer{
+        height: 150px;
+        width: 125px;
+        left: 124.5px;
+        top: 2159px;
     }
 }
