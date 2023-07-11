@@ -578,6 +578,7 @@ footer{
     body{
         height: 2389px;
         width: 373px;
+        overflow-x: hidden;
     }
 
     .main-container{
